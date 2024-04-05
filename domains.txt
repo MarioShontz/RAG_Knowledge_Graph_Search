@@ -1,4 +1,0 @@
-#List of allowed websites for crawler
-artsandsciences.fsu.edu
-#alerts.fsu.edu
-#cs.fsu.edu
