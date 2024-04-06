@@ -16,5 +16,5 @@ fs.readFile(htmlFilename, 'utf8', (err, htmlData) => {
     }
 
     const markdown = turndownService.turndown(htmlData);
-    console.log(markdown); 
+    console.log(markdown.toString('utf-8')); // Ensure UTF-8 output
 });
