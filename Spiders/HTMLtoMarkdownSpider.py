@@ -15,8 +15,8 @@ from scrapy.spiders import Rule
 from Spider import Spider
 
 
-class GFMDSpider(Spider):
-    name = "GFMDSpider"
+class HTMLtoMarkdownSpider(Spider):
+    name = "HTMLtoMarkdownSpider"
     start_afresh = True #takes precedence over update and retry settings below
     
     update_links = True
@@ -132,5 +132,5 @@ class GFMDSpider(Spider):
 
 
 if __name__ == "__main__":
-    spider = GFMDSpider("https://www.fsu.edu")
+    spider = HTMLtoMarkdownSpider("https://www.fsu.edu")
     spider.run()
