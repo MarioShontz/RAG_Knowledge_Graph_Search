@@ -1,1 +1,249 @@
-{}
+{
+    "https://www.fsu.edu": {
+        "title": "Florida State University"
+    },
+    "https://www.fsu.edu/highlights/": {
+        "title": "FSU Highlights & Rankings | Florida State University"
+    },
+    "https://www.fsu.edu/administration/": {
+        "title": "Administration | Florida State University"
+    },
+    "https://www.fsu.edu/students/": {
+        "title": "Students | Florida State University"
+    },
+    "https://www.fsu.edu/about/": {
+        "title": "About FSU | Florida State University"
+    },
+    "https://www.fsu.edu/athletics/": {
+        "title": "Athletics | Florida State University"
+    },
+    "https://www.fsu.edu/public-policy-events/": {
+        "title": "Office of Public Policy Events | Florida State University"
+    },
+    "https://www.fsu.edu/seminole-tribe/": {
+        "title": "Relationship with the Seminole Tribe of Florida | Florida State University"
+    },
+    "https://www.fsu.edu/academics/": {
+        "title": "Academics | Florida State University"
+    },
+    "https://www.fsu.edu/directory/": {
+        "title": "Directory | Florida State University"
+    },
+    "https://www.fsu.edu/highlights/rankings.html": {
+        "title": "Rankings | Florida State University"
+    },
+    "https://www.fsu.edu/land-acknowledgement/": {
+        "title": "Land Acknowledgement | Florida State University"
+    },
+    "https://www.fsu.edu/socialmedia/": {
+        "title": "Social Media | Florida State University"
+    },
+    "https://www.fsu.edu/departments/": {
+        "title": "Departments | Florida State University"
+    },
+    "https://www.fsu.edu/business/": {
+        "title": "Doing Business with Florida State | Florida State University"
+    },
+    "https://www.fsu.edu/support-fsu/": {
+        "title": "Support FSU | Florida State University"
+    },
+    "https://www.fsu.edu/public-policy-events/about.html": {
+        "title": "About | Office of Public Policy Events | Florida State University"
+    },
+    "https://www.fsu.edu/public-policy-events/calendar.html": {
+        "title": "Calendar | Office of Public Policy Events | Florida State University"
+    },
+    "https://www.fsu.edu/public-policy-events/contact.html": {
+        "title": "Contact | Office of Public Policy Events | Florida State University"
+    },
+    "https://www.fsu.edu/public-policy-events/archive.html": {
+        "title": "Archive | Office of Public Policy Events | Florida State University"
+    },
+    "https://www.fsu.edu/seminole-tribe/know.html": {
+        "title": "Top Things to Know | Relationship with the Seminole Tribe of Florida | Florida State University"
+    },
+    "https://www.fsu.edu/highlights/students.html": {
+        "title": "Strong Students and Outcomes | Florida State University"
+    },
+    "https://www.fsu.edu/academics/degrees.html": {
+        "title": "Degree Offerings | Florida State University"
+    },
+    "https://www.fsu.edu/about/mission-vision.html": {
+        "title": "Mission and Vision | Florida State University"
+    },
+    "https://www.fsu.edu/academics/centers.html": {
+        "title": "Research Centers and Institutes | Florida State University"
+    },
+    "https://www.fsu.edu/about/history.html": {
+        "title": "History | Florida State University"
+    },
+    "https://www.fsu.edu/academics/departments.html": {
+        "title": "Departments | Florida State University"
+    },
+    "https://www.fsu.edu/about/accreditation.html": {
+        "title": "University Accreditation Statement | Florida State University"
+    },
+    "https://www.fsu.edu/about/students.html": {
+        "title": "Student Body | Florida State University"
+    },
+    "https://www.fsu.edu/departments/alpha-departments.shtml": {
+        "title": "Alpha - Departments | Florida State University"
+    },
+    "https://www.fsu.edu/seminole-tribe/culture.html": {
+        "title": "Culture of the Seminole Tribe of Florida | Relationship with the Seminole Tribe of Florida | Florida State University"
+    },
+    "https://www.fsu.edu/seminole-tribe/history.html": {
+        "title": "History of the Seminole Tribe of Florida | Relationship with the Seminole Tribe of Florida | Florida State University"
+    },
+    "https://www.fsu.edu/academics/campuses.html": {
+        "title": "Campuses | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/seminole-tribe/resources.html": {
+        "title": "Resources | Relationship with the Seminole Tribe of Florida | Florida State University"
+    },
+    "https://www.fsu.edu/seminole-tribe/partnership.html": {
+        "title": "Path to Partnership | Relationship with the Seminole Tribe of Florida | Florida State University"
+    },
+    "https://www.fsu.edu/seminole-tribe/presence.html": {
+        "title": "Seminole Presence on Campus | Relationship with the Seminole Tribe of Florida | Florida State University"
+    },
+    "https://www.fsu.edu/engineering/": {
+        "title": "Students | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?B.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?A.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?G.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?F.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?E.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?D.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?C.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?L.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?K.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?P.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?S.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?R.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?Q.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?O.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?U.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?T.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?Z.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/misc/comments.shtml": {
+        "title": "Comments | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?Y.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://nursing.fsu.edu/": {
+        "title": "College of Nursing"
+    },
+    "https://www.fsu.edu/seminole-tribe/documents/Seminole-Tribe-of-Florida-2005-Resolution.pdf": {},
+    "https://mec.fsu.edu/": {
+        "title": "Middle East Center"
+    },
+    "https://www.fsu.edu/directories/Departments/?X.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?W.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://iog.fsu.edu/": {
+        "title": "Florida Institute of Government"
+    },
+    "https://www.fsu.edu/directories/Departments/?V.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://ww2.fsu.edu/": {
+        "title": "THE INSTITUTE ON WORLD WAR II AND THE HUMAN EXPERIENCE"
+    },
+    "https://www.fsu.edu/directories/Departments/?M.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?N.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://sga.fsu.edu/": {
+        "title": "Student Government Association"
+    },
+    "https://infr.history.fsu.edu/": {
+        "title": "INFR | INSTITUTE ON NAPOLEON AND THE FRENCH REVOLUTION"
+    },
+    "https://www.fsu.edu/directories/Departments/?J.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?I.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://www.fsu.edu/directories/Departments/?H.html": {
+        "title": "Departments & Services | Florida State University"
+    },
+    "https://honors.fsu.edu/": {
+        "title": "University Honors Program"
+    },
+    "https://facsenate.fsu.edu/": {
+        "title": "Faculty Senate"
+    },
+    "https://modlang.fsu.edu/": {
+        "title": "Department of Modern Languages and Linguistics"
+    },
+    "https://www.fsu.edu/misc/policy.html": {
+        "title": "Policy | Florida State University"
+    },
+    "https://philosophy.fsu.edu/": {
+        "title": "Department of Philosophy"
+    },
+    "https://www.fsu.edu/misc/copyright.html": {
+        "title": "Copyright | Florida State University"
+    },
+    "https://coss.fsu.edu/popcenter/": {
+        "title": "Home - Center for Demography and Population Health"
+    },
+    "https://coss.fsu.edu/": {
+        "title": "College of Social Sciences and Public Policy | Home"
+    },
+    "https://coss.fsu.edu/dmc/": {
+        "title": "Home - DeVoe L. Moore Center"
+    },
+    "https://faculty.fsu.edu": {
+        "title": "Florida State University Faculty"
+    },
+    "https://map.concept3d.com/?id=1235&_escaped_fragment_=ct%2F0": {
+        "title": "Florida State University"
+    }
+}
