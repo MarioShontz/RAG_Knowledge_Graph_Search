@@ -1,12 +1,33 @@
 {
-  "name": "websitetomd",
+  "name": "WebsiteToMD",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Fork of https://www.github.com/DominikPieper/ReadItLater that converts webpages to markdown for use in Scraping Workflow",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node esbuild.config.mjs development",
+    "build": "node esbuild.config.mjs production",
+    "lint": "eslint ./WebsiteToMD --fix"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Mario Shontz",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.18.11",
+    "@types/spark-md5": "^3.0.2",
+    "@types/turndown": "^5.0.1",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "^0.17.19",
+    "isomorphic-dompurify": "^0.20.0",
+    "tslib": "2.4.0",
+    "typescript": "4.7.4"
+  },
+  "dependencies": {
+    "@guyplusplus/turndown-plugin-gfm": "^1.0.7",
+    "@mozilla/readability": "^0.4.2",
+    "iso8601-duration": "^2.1.1",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
+    "spark-md5": "^3.0.2",
+    "turndown": "^7.1.1"
+  }
 }
