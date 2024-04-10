@@ -1,19 +1,9 @@
 from urllib.parse import urlparse
-# import json
 import subprocess
 import html
 import re
 
-# from sys import argv
-# import pathlib
-# import configparser
-
-from scrapy.linkextractors import LinkExtractor
-from scrapy.spiders import Rule
-
-
 from Spider import Spider
-
 
 class HTMLtoMarkdownSpider(Spider):
     name = "HTMLtoMarkdownSpider"
