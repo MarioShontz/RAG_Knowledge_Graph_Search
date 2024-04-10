@@ -7,8 +7,6 @@ import json
 import time
 import re
 
-from scrapy.linkextractors import LinkExtractor
-from scrapy.spiders import Rule
 import scrapy
 from scrapy.crawler import CrawlerProcess
 from scrapy.signals import spider_closed

@@ -1,3 +1,4 @@
+## This Spider is a work in progress. Need to implement parse method and use jsdom.
 from urllib.parse import urlparse
 
 from bs4 import BeautifulSoup as soup
