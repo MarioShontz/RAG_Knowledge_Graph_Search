@@ -1,0 +1,7 @@
+#Rename to .env to use
+NEO4J_URI=neo4j+s://12345678.databases.neo4j.io
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=asdfghjkl
+AURA_INSTANCEID=12345678
+AURA_INSTANCENAME=Instance01
+OPENAI_API_KEY=sk-asdfghjkl
