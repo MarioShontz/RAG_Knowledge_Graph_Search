@@ -42,4 +42,6 @@ Another thing to note about `WebsiteToMD` is that it currently uses multiple met
 
 ![Simple Entity-Relationship Diagram of FSU](<img/E-R Diagram FSU.jpg>)
 Also, checkout [schema.org](https://www.schema.org) and `schemaorg-current-https.rdf`, which I downloaded from it, for ideas. There are many premade entities and relationships in this, including one for an [educational organization](https://schema.org/EducationalOrganization) [college/university](https://schema.org/CollegeOrUniversity), and more fundamental things like a [person](https://schema.org/Person), [time](https://schema.org/Time), and much more.
+A problem is that FSU websites do not follow schema.org typing. One thing we could do is leverage the fact that most FSU websites are based off of templates, and create a list of unique containers and container ids/classes. We can have a language model classify each container based off of examples of its content. This would allow us not only to isolate useful containers in all webpages but maybe even assign schema types.
 2. General improvements to logic for scalability and readability. Need to have clearer path ahead first.
+
